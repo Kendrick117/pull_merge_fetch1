@@ -2,6 +2,6 @@
     <head><title>welcole</tile>
     </>
     <body>
-        <p>WELCOME AGAIN MERCI NZABANA</P>
+        <p><style><bold><italic><underline>WELCOME AGAIN MERCI NZABANA</underline></italic></bold></style></P>
         </>
 </html>
